@@ -1,1 +1,1 @@
-# Translations of StandardSucht
+# StandardSucht Translations
